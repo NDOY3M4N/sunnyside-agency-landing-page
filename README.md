@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NDOY3M4N/sunnyside-agency-landing-page](https://github.com/NDOY3M4N/sunnyside-agency-landing-page)
+- Live Site URL: [https://ndoy3m4n.github.io/sunnyside-agency-landing-page/](https://ndoy3m4n.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
