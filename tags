@@ -1,0 +1,70 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+*	styles.css	/^*, *::after, *::before {$/;"	s
+*::after	styles.css	/^*, *::after, *::before {$/;"	s
+*::before	styles.css	/^*, *::after, *::before {$/;"	s
+.btn	styles.css	/^.btn {$/;"	c
+.btn--light	styles.css	/^.btn--light {$/;"	c
+.btn--light--red	styles.css	/^.btn--light--red {$/;"	c
+.btn--light--yellow	styles.css	/^.btn--light--yellow {$/;"	c
+.btn--light::before	styles.css	/^.btn--light::before {$/;"	c
+.content h3	styles.css	/^.content h3 {$/;"	s
+.content p	styles.css	/^.content p {$/;"	s
+.content--blue > *	styles.css	/^.content--blue > * { color: var(--dark-blue); }$/;"	s
+.content--cyan > *	styles.css	/^.content--cyan > * { color: var(--cyan); }$/;"	s
+.grid	styles.css	/^.grid {$/;"	c
+.grid__item img	styles.css	/^.grid__item img {$/;"	s
+.grid__item--content-within	styles.css	/^.grid__item--content-within {$/;"	c
+.grid__item--content-within .content	styles.css	/^.grid__item--content-within .content {$/;"	c
+.grid__item--content-within img	styles.css	/^.grid__item--content-within img {$/;"	s
+.grid__item--desc	styles.css	/^.grid__item--desc {$/;"	c
+.grid__item--desc > * + *	styles.css	/^.grid__item--desc > * + * {$/;"	s
+.grid__item--desc h2	styles.css	/^.grid__item--desc h2 {$/;"	s
+.grid__item--desc p	styles.css	/^.grid__item--desc p {$/;"	s
+.header	styles.css	/^.header {$/;"	c
+.main	styles.css	/^.main {$/;"	c
+.main .arrow-down	styles.css	/^.main .arrow-down {$/;"	c
+.main h1	styles.css	/^.main h1 {$/;"	s
+.nav	styles.css	/^.nav {$/;"	c
+.testimonials	styles.css	/^.testimonials {$/;"	c
+.testimonials h2	styles.css	/^.testimonials h2 {$/;"	s
+.testimonials--grid	styles.css	/^.testimonials--grid {$/;"	c
+:root	styles.css	/^:root {$/;"	s
+Acknowledgments	README.md	/^## Acknowledgments$/;"	s
+Author	README.md	/^## Author$/;"	s
+Body Copy	style-guide.md	/^### Body Copy$/;"	S
+Built with	README.md	/^### Built with$/;"	S
+Client Testimonials	index.html	/^    <h2>Client Testimonials<\/h2>$/;"	i
+Colors	style-guide.md	/^## Colors$/;"	s
+Continued development	README.md	/^### Continued development$/;"	S
+Font	style-guide.md	/^### Font$/;"	S
+Front-end Style Guide	style-guide.md	/^# Front-end Style Guide$/;"	c
+Frontend Mentor - Sunnyside agency landing page solution	README.md	/^# Frontend Mentor - Sunnyside agency landing page solution$/;"	c
+Graphic Design	index.html	/^        <h3>Graphic Design<\/h3>$/;"	j
+Icons	style-guide.md	/^## Icons$/;"	s
+Layout	style-guide.md	/^## Layout$/;"	s
+Links	README.md	/^### Links$/;"	S
+My process	README.md	/^## My process$/;"	s
+Neutral	style-guide.md	/^### Neutral$/;"	S
+Overview	README.md	/^## Overview$/;"	s
+Photography	index.html	/^        <h3>Photography<\/h3>$/;"	j
+Primary	style-guide.md	/^### Primary$/;"	S
+Screenshot	README.md	/^### Screenshot$/;"	S
+Stand out to the right audience	index.html	/^      <h2>Stand out to the right audience<\/h2>$/;"	i
+Table of contents	README.md	/^## Table of contents$/;"	s
+The challenge	README.md	/^### The challenge$/;"	S
+Transform your brand	index.html	/^      <h2>Transform your brand<\/h2>$/;"	i
+Typography	style-guide.md	/^## Typography$/;"	s
+Useful resources	README.md	/^### Useful resources$/;"	S
+We are creatives	index.html	/^      <h1>We are creatives<\/h1>$/;"	h
+What I learned	README.md	/^### What I learned$/;"	S
+a	styles.css	/^a {$/;"	s
+body	styles.css	/^body {$/;"	s
+h1	styles.css	/^h1, h2, h3 {$/;"	s
+h2	styles.css	/^h1, h2, h3 {$/;"	s
+h3	styles.css	/^h1, h2, h3 {$/;"	s
